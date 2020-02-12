@@ -1,5 +1,5 @@
 # Automated-Collation-of-Information
-
+Aim : To Predict And Prioritize Tech Articles on the daily basis and to provide daily news alert to college students
 1. Scripts which retrieves data on daily basis:<br />
 ACM_Today - technews.acm.org<br />
 IEEE_Today - spectrum.ieee.org<br />
